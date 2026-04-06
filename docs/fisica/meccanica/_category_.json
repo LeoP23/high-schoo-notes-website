@@ -1,0 +1,13 @@
+{
+  "label": "Meccanica",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Unità 1: Meccanica",
+    "description": "La meccanica newtoniana.",
+    "slug": "/fisica/meccanica",
+    "keywords": ["moto", "velocità", "liceo"]
+  }
+}

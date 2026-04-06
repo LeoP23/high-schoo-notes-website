@@ -1,0 +1,13 @@
+{
+  "label": "Cinematica",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Capitolo 1: Cinematica",
+    "description": "Posizione, velocità ed accelerazione.",
+    "slug": "/fisica/meccanica/cinematica",
+    "keywords": ["moto", "velocità", "liceo"]
+  }
+}
