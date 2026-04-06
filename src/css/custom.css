@@ -104,3 +104,16 @@
   --ifm-alert-color: #ffe08a;
   --ifm-alert-foreground-color: #ffe08a;
 }
+
+/* Force base alert box styles for custom admonitions */
+.alert--goal,
+.alert--theorem,
+.alert--definition {
+  background-color: var(--ifm-alert-background-color);
+  border: none;
+  border-left: 4px solid var(--ifm-alert-border-color);
+  border-radius: var(--ifm-alert-border-radius);
+  color: var(--ifm-alert-color);
+  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
+  margin-bottom: var(--ifm-spacing-vertical);
+}

@@ -12,6 +12,6 @@
     In this lesson you will learn
 :::
 :::theorem
-:::definition
 :::
+:::definition
 :::
