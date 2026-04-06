@@ -36,7 +36,7 @@ function CurriculumSection() {
     {
       title: 'Matematica',
       description: 'Dall\'algebra di base allo studio di funzione e agli integrali.',
-      link: '/docs/matematica',
+      link: '/matematica',
       cardClass: 'card-math',
       titleClass: 'card-title-math',
       icon: '📐'
@@ -44,7 +44,7 @@ function CurriculumSection() {
     {
       title: 'Fisica',
       description: 'Dalla cinematica all\'elettromagnetismo e alla relatività.',
-      link: '/docs/fisica',
+      link: '/fisica',
       cardClass: 'card-physics',
       titleClass: 'card-title-physics',
       icon: '⚛️'
